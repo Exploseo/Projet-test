@@ -8,4 +8,5 @@ echo "Pour test branche 2";
 /** Test pour merge **/
 
 /* TEST BRANCHE ? */
+/* 2 sous branches */
 ?>
