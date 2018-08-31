@@ -6,4 +6,6 @@ echo "Pour test branche 2";
 
 <? 
 /** Test pour merge **/
+
+/* TEST BRANCHE ? */
 ?>
