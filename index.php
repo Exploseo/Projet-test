@@ -14,4 +14,5 @@
 define('WP_USE_THEMES', true);
 
 /** Loads the WordPress Environment and Template */
+/*** Modif sous wordpress avec GitHub ***/
 require( dirname( __FILE__ ) . '/wp-blog-header.php' );
