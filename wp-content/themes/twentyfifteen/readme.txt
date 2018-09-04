@@ -1,4 +1,5 @@
 === Twenty Fifteen ===
+=== TEST INSERTION 3EME MODIFCATION SIMULTANEE + DANS UN DOSSIER DIFFERENT DE RACINE ===
 Contributors: the WordPress team
 Requires at least: WordPress 4.1
 Tested up to: WordPress 5.0-trunk
